@@ -96,18 +96,18 @@
 		
 	</dependencies>
 	
-	<!-- Made changes to Nexus 03/12/2022 -->
+	<!-- Made changes to Nexus 03/20/2022 -->
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>seic_jenkins Releases Nexus Repository</name>
-	      <url> http://192.168.108.155:8081/repository/seic_jenkins_release/</url>
+	      <name>paypal_jenkins Releases Nexus Repository</name>
+	      <url> http://192.168.108.155:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>seic_jenkins Snapshot Nexus Repository </name>
-	      <url>http://192.168.108.155:8081/repository/seic_jenkins_snapshot/</url>
+	      <name>paypal_jenkins Snapshot Nexus Repository </name>
+	      <url>http://192.168.108.155:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
