@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>seic-web-app</artifactId>
+	<artifactId>paypal-web-app</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>seic-web-app</name>
+	<name>paypal-web-app</name>
 
-	<description>Maven Web Project for seic Java Project</description>
+	<description>Maven Web Project for Paypal Java Project</description>
 
 	<organization>
 		<name>SEIC Investments</name>
@@ -113,7 +113,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>seic-web-app</finalName>
+		<finalName>paypal-web-app</finalName>
 		
 		<plugins>
 			<plugin>
