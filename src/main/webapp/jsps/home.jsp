@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to PAYPAL  Technologies</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project. Which is true
-	               PAYPAL Technologies is a fin tech  company. 
+	               PAYPAL Technologies is a fin tech company. 
 	                 </h2>
 	     
 <hr>
